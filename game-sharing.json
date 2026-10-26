@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "title": "Bald or Ass",
+  "description": "Only one small piece of the image is visible: bald head or butt? Click Bald or Ass and see the full picture.",
+  "defaultCaptions": {},
+  "assets": {
+    "og": "assets/share/og.png",
+    "favicon": "assets/share/favicon.png"
+  }
+}

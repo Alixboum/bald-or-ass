@@ -1,0 +1,356 @@
+{
+  "version": 2,
+  "groups": {
+    "share": {
+      "name": "Share",
+      "order": 20
+    },
+    "template": {
+      "name": "Template",
+      "order": 0
+    },
+    "themes": {
+      "name": "Themes",
+      "order": 30
+    }
+  },
+  "bundles": {},
+  "assets": {
+    "assets/share/favicon.png": {
+      "path": "/manus-storage/game/sha256/7febb05b11027bb3ca9f479deda66acffdac25550d1abcf4c349bbdd8f8158d3.png",
+      "sha256": "sha256:7febb05b11027bb3ca9f479deda66acffdac25550d1abcf4c349bbdd8f8158d3",
+      "size": 217771,
+      "assetType": "image",
+      "groupId": "share",
+      "used": true
+    },
+    "assets/share/og.png": {
+      "path": "/manus-storage/game/sha256/6cd57164cf0900f44ea4ac8505e634357bbc1b8178d394320daa1662f4779315.png",
+      "sha256": "sha256:6cd57164cf0900f44ea4ac8505e634357bbc1b8178d394320daa1662f4779315",
+      "size": 988192,
+      "assetType": "image",
+      "groupId": "share",
+      "used": true
+    },
+    "assets/template/characters/runner.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/06/game-template/game-generic/2026.09.07-minimalist-v1/c88485773d6ff9361e036f37d8ac76fb77b8c3f7c041c3f52c8dd222adc8cc21/assets/characters/runner.png",
+      "sha256": "sha256:c88485773d6ff9361e036f37d8ac76fb77b8c3f7c041c3f52c8dd222adc8cc21",
+      "size": 68885,
+      "assetType": "image",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/characters/sentinel.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/06/game-template/game-generic/2026.09.07-minimalist-v1/0d9fb751bca5507ba14f7090573e6605a94753390a9e7c53bf2f590f0a24918d/assets/characters/sentinel.png",
+      "sha256": "sha256:0d9fb751bca5507ba14f7090573e6605a94753390a9e7c53bf2f590f0a24918d",
+      "size": 64998,
+      "assetType": "image",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/environment/backdrop.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/06/game-template/game-generic/2026.09.07-minimalist-v1/ec4ab7867e60fb483dd438459f587b478aac4c1e71ec4fe509ce74a18de34216/assets/environment/backdrop.png",
+      "sha256": "sha256:ec4ab7867e60fb483dd438459f587b478aac4c1e71ec4fe509ce74a18de34216",
+      "size": 971282,
+      "assetType": "image",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/environment/foreground.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/06/game-template/game-generic/2026.09.07-minimalist-v1/4b6916024c69961fbfa7cdc929c68f547fea4561e61ebdb3405b3aba0efbd94d/assets/environment/foreground.png",
+      "sha256": "sha256:4b6916024c69961fbfa7cdc929c68f547fea4561e61ebdb3405b3aba0efbd94d",
+      "size": 58603,
+      "assetType": "image",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/fonts/Figtree-VF.subset.woff2": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/25/game-template/game-generic/2026.09.25-typography-v1/b3976c5969c8b1afd81dc3e314b61d8ffe3f3f58cf40906443105d330e6e0bdf/assets/template/fonts/Figtree-VF.subset.woff2",
+      "sha256": "sha256:b3976c5969c8b1afd81dc3e314b61d8ffe3f3f58cf40906443105d330e6e0bdf",
+      "size": 23660,
+      "assetType": "font",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/fonts/NotoSansSC-VF.subset.woff2": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/25/game-template/game-generic/2026.09.25-typography-v1/38f4c5f927f746b3dfa4c3a5d7edf0b7a3e828e27438418fa54f9e1565289412/assets/template/fonts/NotoSansSC-VF.subset.woff2",
+      "sha256": "sha256:38f4c5f927f746b3dfa4c3a5d7edf0b7a3e828e27438418fa54f9e1565289412",
+      "size": 1869368,
+      "assetType": "font",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/fonts/display/Sora-VF.subset.woff2": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/25/game-template/game-generic/2026.09.25-typography-v1/438fbf4582548e76b266a738f2c11bcbd5137978f2d2e2f3aaabd49df69186f2/assets/template/fonts/display/Sora-VF.subset.woff2",
+      "sha256": "sha256:438fbf4582548e76b266a738f2c11bcbd5137978f2d2e2f3aaabd49df69186f2",
+      "size": 41696,
+      "assetType": "font",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/powerups/energy.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/06/game-template/game-generic/2026.09.07-minimalist-v1/ffd7906f240f928e785d7c19a9e7a7b5dfab0d7483be5205dda3e4ba17ebe06a/assets/powerups/energy.png",
+      "sha256": "sha256:ffd7906f240f928e785d7c19a9e7a7b5dfab0d7483be5205dda3e4ba17ebe06a",
+      "size": 50950,
+      "assetType": "image",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/powerups/magnet.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/06/game-template/game-generic/2026.09.07-minimalist-v1/6e7354aa6510a462717218b09b9d784bb161b87878bff62ef4f2a9d03c053de7/assets/powerups/magnet.png",
+      "sha256": "sha256:6e7354aa6510a462717218b09b9d784bb161b87878bff62ef4f2a9d03c053de7",
+      "size": 53724,
+      "assetType": "image",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/powerups/overdrive.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/06/game-template/game-generic/2026.09.07-minimalist-v1/6a48a85886c0551c1af0df576b0225f0ec3ae86b326fd84fc614083fbfe2908b/assets/powerups/overdrive.png",
+      "sha256": "sha256:6a48a85886c0551c1af0df576b0225f0ec3ae86b326fd84fc614083fbfe2908b",
+      "size": 37238,
+      "assetType": "image",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/powerups/shield.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/06/game-template/game-generic/2026.09.07-minimalist-v1/8cebf0cf730ca35c8c8697192ef78121c926442328a0725e0bd3e31701d64f13/assets/powerups/shield.png",
+      "sha256": "sha256:8cebf0cf730ca35c8c8697192ef78121c926442328a0725e0bd3e31701d64f13",
+      "size": 39659,
+      "assetType": "image",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/powerups/slow_field.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/06/game-template/game-generic/2026.09.07-minimalist-v1/96874c000866b2e7503b40da73888afb918ae36e462f51488415157da52a8637/assets/powerups/slow_field.png",
+      "sha256": "sha256:96874c000866b2e7503b40da73888afb918ae36e462f51488415157da52a8637",
+      "size": 49145,
+      "assetType": "image",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/ui/loading-background.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/25/game-template/game-generic/2026.09.25-typography-v1/16dde3061f4e60802f8f0d1a6b875e72b6add05192237b03fef1fd313968a13a/assets/template/ui/loading-background.png",
+      "sha256": "sha256:16dde3061f4e60802f8f0d1a6b875e72b6add05192237b03fef1fd313968a13a",
+      "size": 473356,
+      "assetType": "image",
+      "groupId": "template",
+      "used": false
+    },
+    "assets/template/ui/pause_glass.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/06/game-template/game-generic/2026.09.07-minimalist-v1/c88a4725838df85e72c7270865848f275b62c525c5679a2a8b7ecefb1af82d4b/assets/ui/pause_glass.png",
+      "sha256": "sha256:c88a4725838df85e72c7270865848f275b62c525c5679a2a8b7ecefb1af82d4b",
+      "size": 115691,
+      "assetType": "image",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/template/ui/title_glass.png": {
+      "path": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/06/game-template/game-generic/2026.09.07-minimalist-v1/8860db07768f093d4effea10b51431f76a1552d4bc7fd4e57757f189c51f0429/assets/ui/title_glass.png",
+      "sha256": "sha256:8860db07768f093d4effea10b51431f76a1552d4bc7fd4e57757f189c51f0429",
+      "size": 155592,
+      "assetType": "image",
+      "groupId": "template",
+      "used": true
+    },
+    "assets/themes/bald_or_ass/ass_01.jpg": {
+      "path": "/manus-storage/game/sha256/3b51079f44aab9e4d92b9eca4c6f1fb59df83cdc44b19607ffe71cc147f0bbf9.jpg",
+      "sha256": "sha256:3b51079f44aab9e4d92b9eca4c6f1fb59df83cdc44b19607ffe71cc147f0bbf9",
+      "size": 96540,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/ass_02.jpg": {
+      "path": "/manus-storage/game/sha256/d663db74e8bb13e6b949bfb68b17e5b93dc7e48b5f7e68eb3e129c160c62b29f.jpg",
+      "sha256": "sha256:d663db74e8bb13e6b949bfb68b17e5b93dc7e48b5f7e68eb3e129c160c62b29f",
+      "size": 50767,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/ass_03.jpg": {
+      "path": "/manus-storage/game/sha256/b80d53e16760edd4149521c90c9c5dd1be1584b589e0c87e7b2469a79c400951.jpg",
+      "sha256": "sha256:b80d53e16760edd4149521c90c9c5dd1be1584b589e0c87e7b2469a79c400951",
+      "size": 84108,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/ass_04.jpg": {
+      "path": "/manus-storage/game/sha256/4e6b0941aeca386580bad7cdd9e5b11142e1bb6b58451303bea600709f999ddd.jpg",
+      "sha256": "sha256:4e6b0941aeca386580bad7cdd9e5b11142e1bb6b58451303bea600709f999ddd",
+      "size": 39452,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/ass_05.jpg": {
+      "path": "/manus-storage/game/sha256/53c82759d1df0b7e4c7d33e6f4e37a4d41b5cb183935a9bb82b5074f0a117c00.jpg",
+      "sha256": "sha256:53c82759d1df0b7e4c7d33e6f4e37a4d41b5cb183935a9bb82b5074f0a117c00",
+      "size": 81985,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/ass_06.jpg": {
+      "path": "/manus-storage/game/sha256/9b2b36cd7b75e0ae49d7e5ed660fb642d09fbfaed2b4437d27d69f4f0dab60e4.jpg",
+      "sha256": "sha256:9b2b36cd7b75e0ae49d7e5ed660fb642d09fbfaed2b4437d27d69f4f0dab60e4",
+      "size": 61831,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/ass_07.jpg": {
+      "path": "/manus-storage/game/sha256/8318192da65dea8295a6c8c9ee81838ba30e8408805efa6efc5dea27942bb361.jpg",
+      "sha256": "sha256:8318192da65dea8295a6c8c9ee81838ba30e8408805efa6efc5dea27942bb361",
+      "size": 19751,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/ass_08.jpg": {
+      "path": "/manus-storage/game/sha256/8cb88e815be5db990a6ec64f46b34220d90d24e3bd46172d9b0f066f93640002.jpg",
+      "sha256": "sha256:8cb88e815be5db990a6ec64f46b34220d90d24e3bd46172d9b0f066f93640002",
+      "size": 52308,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/ass_09.jpg": {
+      "path": "/manus-storage/game/sha256/d20b7068ede0e46854f6c21f58c138445ff0c5991f81c654c6aedb4ad49410da.jpg",
+      "sha256": "sha256:d20b7068ede0e46854f6c21f58c138445ff0c5991f81c654c6aedb4ad49410da",
+      "size": 79173,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/ass_10.jpg": {
+      "path": "/manus-storage/game/sha256/410c0dc3804f429920cd77813f45c23600775a3838225f34cd5a20740151cfc4.jpg",
+      "sha256": "sha256:410c0dc3804f429920cd77813f45c23600775a3838225f34cd5a20740151cfc4",
+      "size": 59204,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/ass_11.jpg": {
+      "path": "/manus-storage/game/sha256/cd398274b6cb038bcf0ffd9f9e7d8e9b56fffc7fadc30cc195a1720311ed2967.jpg",
+      "sha256": "sha256:cd398274b6cb038bcf0ffd9f9e7d8e9b56fffc7fadc30cc195a1720311ed2967",
+      "size": 118521,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/ass_12.jpg": {
+      "path": "/manus-storage/game/sha256/d7b508c76ad60576f3169ad836e85afe92956e2dc4f7e28420d96a51efcd7518.jpg",
+      "sha256": "sha256:d7b508c76ad60576f3169ad836e85afe92956e2dc4f7e28420d96a51efcd7518",
+      "size": 102778,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_01.jpg": {
+      "path": "/manus-storage/game/sha256/6e87c86a82627cc9605dbcd1bb5c1dadfe940ebe287b5a75aac747695d6befbd.jpg",
+      "sha256": "sha256:6e87c86a82627cc9605dbcd1bb5c1dadfe940ebe287b5a75aac747695d6befbd",
+      "size": 123788,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_02.jpg": {
+      "path": "/manus-storage/game/sha256/f0d48208c887dc6c94be57d64d282e3edb9096c1eaff5c714ba483c617356e41.jpg",
+      "sha256": "sha256:f0d48208c887dc6c94be57d64d282e3edb9096c1eaff5c714ba483c617356e41",
+      "size": 154492,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_03.jpg": {
+      "path": "/manus-storage/game/sha256/c1bc0d70d2531fcc224ed5652c231079435a80a864467d015312e55ea54dd55f.jpg",
+      "sha256": "sha256:c1bc0d70d2531fcc224ed5652c231079435a80a864467d015312e55ea54dd55f",
+      "size": 130047,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_04.jpg": {
+      "path": "/manus-storage/game/sha256/c576e0f0db6ce7d220fdc6fa1f8c491ce04d14a346938a6efc096c72cb422057.jpg",
+      "sha256": "sha256:c576e0f0db6ce7d220fdc6fa1f8c491ce04d14a346938a6efc096c72cb422057",
+      "size": 152074,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_05.jpg": {
+      "path": "/manus-storage/game/sha256/5b15f23ae93469294d1ac426ee58794bdfbc3b6ca228ae89e29cdc42476a6042.jpg",
+      "sha256": "sha256:5b15f23ae93469294d1ac426ee58794bdfbc3b6ca228ae89e29cdc42476a6042",
+      "size": 143325,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_06.jpg": {
+      "path": "/manus-storage/game/sha256/233c373ccfa3097e3dfb4d172d71c749db3a72cd653257d5fe656dba2ab84beb.jpg",
+      "sha256": "sha256:233c373ccfa3097e3dfb4d172d71c749db3a72cd653257d5fe656dba2ab84beb",
+      "size": 71402,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_07.jpg": {
+      "path": "/manus-storage/game/sha256/0c9b44b190c1d72f0c2900c49b1016ede4c74bc13cc61795141008a804380b79.jpg",
+      "sha256": "sha256:0c9b44b190c1d72f0c2900c49b1016ede4c74bc13cc61795141008a804380b79",
+      "size": 33078,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_08.jpg": {
+      "path": "/manus-storage/game/sha256/81420977cb33cf47415729fa8f1d2a117ab3047cf1cc080eeacbab5a9aea32d7.jpg",
+      "sha256": "sha256:81420977cb33cf47415729fa8f1d2a117ab3047cf1cc080eeacbab5a9aea32d7",
+      "size": 111487,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_09.jpg": {
+      "path": "/manus-storage/game/sha256/bc6ef87526f947fd99b577ac9de7a95dc5bfd3a1a9faa0d306fb9aa7b8be2afe.jpg",
+      "sha256": "sha256:bc6ef87526f947fd99b577ac9de7a95dc5bfd3a1a9faa0d306fb9aa7b8be2afe",
+      "size": 121112,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_10.jpg": {
+      "path": "/manus-storage/game/sha256/85bde3aec1e8bf557ff2d3b28b3220ab0b4b0f82b0cafe8d2a05f00535ec0361.jpg",
+      "sha256": "sha256:85bde3aec1e8bf557ff2d3b28b3220ab0b4b0f82b0cafe8d2a05f00535ec0361",
+      "size": 77973,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_11.jpg": {
+      "path": "/manus-storage/game/sha256/87f3de6d05cdb01a3a5763981a15f5e2526003babceec651990db59bdc79bd92.jpg",
+      "sha256": "sha256:87f3de6d05cdb01a3a5763981a15f5e2526003babceec651990db59bdc79bd92",
+      "size": 34653,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_12.jpg": {
+      "path": "/manus-storage/game/sha256/e3579a6cff3b0b48ce0d4f916b7a76900ef74e65b1ae596412554943162e52cc.jpg",
+      "sha256": "sha256:e3579a6cff3b0b48ce0d4f916b7a76900ef74e65b1ae596412554943162e52cc",
+      "size": 115882,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    },
+    "assets/themes/bald_or_ass/bald_13.jpg": {
+      "path": "/manus-storage/game/sha256/a5b80b594c3a776fa6bf1549461f2deab650728da157d0cd64a13c1f6823e058.jpg",
+      "sha256": "sha256:a5b80b594c3a776fa6bf1549461f2deab650728da157d0cd64a13c1f6823e058",
+      "size": 76427,
+      "assetType": "image",
+      "groupId": "themes",
+      "used": false
+    }
+  }
+}

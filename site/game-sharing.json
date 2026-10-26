@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "publicationOrigin": "https://baldorass-xpzhrprz.manus.game",
+  "title": "Bald or Ass",
+  "description": "Only one small piece of the image is visible: bald head or butt? Click Bald or Ass and see the full picture.",
+  "defaultCaptions": {},
+  "assets": {
+    "og": {
+      "digest": "sha256:6cd57164cf0900f44ea4ac8505e634357bbc1b8178d394320daa1662f4779315",
+      "path": "share/6cd57164cf0900f44ea4ac8505e634357bbc1b8178d394320daa1662f4779315.png",
+      "mime": "image/png",
+      "width": 1200,
+      "height": 630,
+      "sizeBytes": 988192,
+      "sourcePath": "assets/share/og.png"
+    },
+    "favicon": {
+      "digest": "sha256:7febb05b11027bb3ca9f479deda66acffdac25550d1abcf4c349bbdd8f8158d3",
+      "path": "share/7febb05b11027bb3ca9f479deda66acffdac25550d1abcf4c349bbdd8f8158d3.png",
+      "mime": "image/png",
+      "width": 512,
+      "height": 512,
+      "sizeBytes": 217771,
+      "sourcePath": "assets/share/favicon.png"
+    }
+  }
+}

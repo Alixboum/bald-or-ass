@@ -1,0 +1,8 @@
+{
+  "network": "Hemi",
+  "chain_id": 43111,
+  "rpc_url": "https://rpc.hemi.network/rpc",
+  "explorer_url": "https://explorer.hemi.xyz",
+  "contract": "0xa5a9dda017ab635fea76706e43dbe2bfeb398559",
+  "deploy_tx": "0x60dd26042b54f8f7f668eb82f51ffe6e3131220e3532966a3a1f48ac3938a991"
+}
