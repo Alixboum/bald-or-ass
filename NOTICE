@@ -1,0 +1,11 @@
+Bald or Ass
+Copyright (c) 2026 Alixboum
+
+The code in this repository is MIT licensed (see LICENSE).
+
+Third-party components keep their own licenses:
+- Godot Engine and its Web runtime: MIT (see site/THIRD_PARTY_NOTICES.txt)
+- Fonts Figtree, Sora, Noto Sans SC: SIL Open Font License 1.1
+  (see assets/template/fonts/*-OFL.txt)
+- Photos in assets/themes/: not covered by this license; they belong to their
+  respective owners and are included for parody only.

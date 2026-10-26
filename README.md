@@ -41,4 +41,4 @@ Built with Godot 4 (Web export).
 
 ## License
 
-Code: [MIT](LICENSE). Third-party fonts, engine and photos keep their own terms (see LICENSE).
+Code: [MIT](LICENSE). Third-party fonts, engine and photos keep their own terms (see NOTICE).
